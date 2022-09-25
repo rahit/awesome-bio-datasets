@@ -311,6 +311,8 @@ Integrated biological information for budding yeast, along with search and analy
 
 [Gene Ontology (GO)](http://geneontology.org/page/download-annotations)  
 
+[Genome In A Bottle (GIAB)] (https://www.nist.gov/programs-projects/genome-bottle)
+
 [Genotype-Tissue Expression (GTEx)](http://www.gtexportal.org)  
 
 [Global Biotic Interactions (GloBI)](https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data)  
@@ -348,6 +350,8 @@ Integrated biological information for budding yeast, along with search and analy
 [PubChem Project](https://pubchem.ncbi.nlm.nih.gov/)  
 
 [PubGene (now Coremine Medical)](http://www.pubgene.org/)  
+
+[Illumina Repeat RepeatCatalogs](https://github.com/Illumina/RepeatCatalogs)
 
 [Sanger Catalogue of Somatic Mutations in Cancer (COSMIC)](http://cancer.sanger.ac.uk/cosmic)  
 
